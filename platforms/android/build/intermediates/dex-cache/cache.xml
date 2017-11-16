@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_cd25d8e1cecb73a87b0f57b5a77bb36cea8f8ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_1e8780a543331023c42066c1ac408862d9d0ed76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_a5829873b4cf4956535bf55f8986bd569022b99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_0968e30e91a48fe5b7802d8f47d5b058e775510b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_51deb96c0c05c1c972da6fe625ec0f8dd38aacef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_38d8cf5d87766433a50f5ab0e1bf3677ea8c2a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_a2284212c56d9b6a324a8b135bdaf749c3b38235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_4dc8e3f897d1027e8e793eebada8983b5f867f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_ea4ed70ab255ca02a648d70bd5a9ea962eb7853c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_3f1f80a94cc9a3ee41208bf134e5aea3defdb383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_12b5cc909a0d9baf8cac64f01b3564e885df4a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_0f93b3ba0fa01ad3e2eb3d1a20cf6ec59defa793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_02f151d97759653d75fc72223c63c621b826ca2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yovani/Desktop/nativescript/EventoFacilito/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_64d4973b88f595a38085ca98ceec9f1052b77f4b.jar" />
+    </item>
+
+</items>
